@@ -1,8 +1,10 @@
 <!-- GitHub Profile README HTML Snippet -->
+
 <!-- README.md 최상단에 추가 -->
 <p align="center">
   <img src="assets/banner.gif" alt="Young Jun's Git Retro Pixel Banner" width="100%" />
 </p>
+<div style="max-width:800px; margin: auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; line-height:1.6;">
 
 
   <!-- Introduction -->
