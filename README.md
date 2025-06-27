@@ -1,11 +1,28 @@
 <!-- GitHub Profile README HTML Snippet -->
 <div align="center">
   <!-- Title -->
-  <h1>Young Jun's Git</h1>
+  <!-- ====== Hero Banner & Introduction ====== -->
+<div align="center" style="margin-bottom: 2rem;">
+  <!-- Banner Image (replace URL with your custom banner if desired) -->
+  <img 
+    src="https://via.placeholder.com/800x200?text=Young+Jun%27s+Git" 
+    alt="Young Jun's Git Banner" 
+    style="width:100%; max-width:800px; border-radius: 12px;"
+  />
+</div>
+<div style="max-width:800px; margin: auto; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; line-height:1.6;">
+
 
   <!-- Introduction -->
-  <p>👋 I’m an undergraduate AI/ML researcher preparing for graduate school in Computer Science.</p>
-
+  <!-- Extended Self-Introduction -->
+  <p>
+    Hello, I’m <strong>Young Jun</strong> 👋<br/>
+    I am a passionate undergraduate researcher in AI and Machine Learning at Soongsil University, with a strong aspiration to pursue graduate studies in Computer Science.  
+    Over the past few years, I’ve immersed myself in computer vision, deep learning, and meta-heuristic optimization.  
+    My current research explores how advanced detectors can be optimized for real-world tasks—like identifying wasps—and how machine learning can guide balanced clustering strategies in heuristic algorithms.  
+    I love collaborating with fellow enthusiasts, mentoring juniors in coding clubs, and sharing my work through open-source projects on GitHub.  
+    I’m always excited to connect with researchers and engineers who share my vision for AI-driven innovation!
+  </p>
   <!-- Tech Badges -->
   <div>
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B" alt="C++"/>
@@ -72,26 +89,37 @@
   </div>
 </div>
 
-<!-- Timeline / History -->
-## 🗓️ Timeline
-- **Sejong High School** (graduated 2019)  
-- **Soongsil University**, B.S. in Computer Science (expected 2026)  
-- **President, SSCC (Soongsil Central Computer Club)**, 42nd term  
-- **Undergraduate Researcher**, Deep Imaging Lab ([gilab.co.kr](https://gilab.co.kr))  
-- **Vice President**, CIT Coding Society (2023–present)  
+<!-- ====== Certifications & Badges ====== -->
+<section style="max-width:800px; margin:auto; text-align:center;">
+  <h2>🎓 Certifications</h2>
+  <div style="display:flex; flex-wrap:wrap; justify-content:center; gap:0.5rem;">
+    <img src="https://img.shields.io/badge/SQLD-SQL%20Developer-4EAA25?style=for-the-badge&logo=postgresql" alt="SQLD"/>
+    <img src="https://img.shields.io/badge/Network_Admin-⭐️ Networking-0078D4?style=for-the-badge&logo=cisco" alt="Network Administrator"/>
+    <img src="https://img.shields.io/badge/Linux_Master-LPI-CC0000?style=for-the-badge&logo=linux" alt="Linux Master"/>
+    <img src="https://img.shields.io/badge/ADSp-Advanced%20Data%20Science%20Professional-00AEBF?style=for-the-badge" alt="ADSp"/>
+  </div>
+</section>
 
-<!-- Certifications -->
-## 🎓 Certifications
-- SQL Developer (SQLD)  
-- Network Administrator  
-- Linux Master  
-- Advanced Data Science Professional (ADSp)  
+<!-- ====== Current Papers ====== -->
+<section style="max-width:800px; margin:2rem auto; padding:1rem; border-radius:8px; background:#f7f8fa;">
+  <h2 style="text-align:center;">📑 Working On</h2>
+  <ul style="line-height:1.6; padding-left:1.2rem;">
+    <li>
+      <strong>Performance Comparison and Optimization of Deep Learning Detectors</strong><br/>
+      <small>for Enhanced Wasp Identification</small>
+    </li>
+    <li>
+      <strong>Balanced Clustering in Heuristic Algorithms</strong><br/>
+      <small>Using Machine Learning</small>
+    </li>
+  </ul>
+</section>
 
-<!-- Current Papers -->
-## 📑 Working On
-- **Performance Comparison and Optimization of Deep Learning Detectors for Enhanced Wasp Identification**  
-- **Balanced Clustering in Heuristic Algorithms Using Machine Learning**  
-
-<!-- Awards -->
-## 🏆 Awards
-- 🥈 Silver Award, 2024 Computer Science Dept. Software Competition *(“Photoisk”)*  
+<!-- ====== Awards ====== -->
+<section style="max-width:800px; margin:auto; text-align:center;">
+  <h2>🏆 Awards</h2>
+  <div style="display:inline-block; padding:1rem 1.5rem; border-radius:8px; background:#fff4e5; box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+    <img src="https://img.shields.io/badge/2024-Photoisk_Silver-9C27B0?style=for-the-badge&logo=award" alt="Silver Award"/>
+    <p style="margin:0.5rem 0 0;">Silver Award, 2024 Computer Science Dept. Software Competition</p>
+  </div>
+</section>
