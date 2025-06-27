@@ -46,13 +46,28 @@
     </a>
   </div>
 
-<!-- solved.ac Profile Card (Tier, Solved Count, Rank & “Grass”) -->
-<h3>🎯 solved.ac Profile</h3>
+<!-- solved.ac Mini Badges (버전1 & 버전2) -->
+<h3>🎯 solved.ac Tier Badges</h3>
 <div align="center">
+  <!-- Mini Badge 버전1 -->
   <a href="https://solved.ac/profile/yjkyj3">
     <img
-      src="http://mazandi.herokuapp.com/api?handle=yjkyj3&theme=warm"
-      alt="solved.ac Profile Card for yjkyj3"
+      src="http://mazassumnida.wtf/api/generate_badge?boj=yjkyj3"
+      alt="solved.ac Badge V1 for yjkyj3"
+    />
+  </a>
+  <!-- Mini Badge 버전2 (테마: warm) -->
+  <a href="https://solved.ac/profile/yjkyj3">
+    <img
+      src="http://mazassumnida.wtf/api/generate_badge?boj=yjkyj3&theme=warm"
+      alt="solved.ac Badge V2 for yjkyj3"
+    />
+  </a>
+    <!-- solved.ac “Grass” (잔디) -->
+  <a href="https://solved.ac/profile/yjkyj3">
+    <img
+      src="https://mazandi.herokuapp.com/api?handle=yjkyj3&theme=warm"
+      alt="solved.ac Grass for yjkyj3"
     />
   </a>
 </div>
