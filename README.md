@@ -1,13 +1,7 @@
-
-<!-- ====== Hero Banner & Introduction ====== -->
-<div align="center" style="margin-bottom: 2rem;">
-  <!-- Banner Image (replace URL with your custom banner if desired) -->
-  <img 
-    src="https://via.placeholder.com/800x200?text=Young+Jun%27s+Git" 
-    alt="Young Jun's Git Banner" 
-    style="width:100%; max-width:800px; border-radius: 12px;"
-  />
-</div>
+<!-- GitHub Profile README HTML Snippet -->
+<div align="center">
+  <!-- Title -->
+  <h1>Young Jun's Git</h1>
 
   <!-- Introduction -->
   <!-- Extended Self-Introduction -->
