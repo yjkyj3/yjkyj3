@@ -47,16 +47,21 @@
   </div>
 
 <!-- solved.ac Badges: Status & Streak -->
+<!-- solved.ac Status & Streak Badges -->
 <h3>🎯 solved.ac Profile & Streak</h3>
 <div align="center">
   <!-- solved.ac Status Badge (tier, solved count, rank) -->
-  <a href="https://solved.ac/yjkyj3">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=yjkyj3" 
-         alt="solved.ac Profile Badge for yjkyj3" />
+  <a href="https://solved.ac/profile/yjkyj3">
+    <img
+      src="https://mazassumnida.github.io/api/v2/generate_badge?boj=yjkyj3"
+      alt="solved.ac Status Badge for yjkyj3"
+    />
   </a>
-  <!-- solved.ac Streak Badge -->
-  <img src="https://streak-stats.demolab.com?user=yjkyj3&theme=dark" 
-       alt="solved.ac Streak Stats for yjkyj3" />
+  <!-- solved.ac Streak / Activity Graph Badge -->
+  <img
+    src="https://mazassumnida.github.io/api/v2/graph/badge?boj=yjkyj3"
+    alt="solved.ac Streak Badge for yjkyj3"
+  />
 </div>
 
   <!-- GitHub Stats -->
