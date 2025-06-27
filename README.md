@@ -56,13 +56,6 @@
       alt="solved.ac Badge V1 for yjkyj3"
     />
   </a>
-  <!-- Mini Badge 버전2 (테마: warm) -->
-  <a href="https://solved.ac/profile/yjkyj3">
-    <img
-      src="http://mazassumnida.wtf/api/generate_badge?boj=yjkyj3&theme=warm"
-      alt="solved.ac Badge V2 for yjkyj3"
-    />
-  </a>
     <!-- solved.ac “Grass” (잔디) -->
   <a href="https://solved.ac/profile/yjkyj3">
     <img
