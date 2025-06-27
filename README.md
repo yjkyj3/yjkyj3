@@ -46,22 +46,15 @@
     </a>
   </div>
 
-<!-- solved.ac Badges: Status & Streak -->
-<!-- solved.ac Status & Streak Badges -->
-<h3>🎯 solved.ac Profile & Streak</h3>
+<!-- solved.ac Profile Card (Tier, Solved Count, Rank & “Grass”) -->
+<h3>🎯 solved.ac Profile</h3>
 <div align="center">
-  <!-- solved.ac Status Badge (tier, solved count, rank) -->
   <a href="https://solved.ac/profile/yjkyj3">
     <img
-      src="https://mazassumnida.github.io/api/v2/generate_badge?boj=yjkyj3"
-      alt="solved.ac Status Badge for yjkyj3"
+      src="http://mazandi.herokuapp.com/api?handle=yjkyj3&theme=warm"
+      alt="solved.ac Profile Card for yjkyj3"
     />
   </a>
-  <!-- solved.ac Streak / Activity Graph Badge -->
-  <img
-    src="https://mazassumnida.github.io/api/v2/graph/badge?boj=yjkyj3"
-    alt="solved.ac Streak Badge for yjkyj3"
-  />
 </div>
 
   <!-- GitHub Stats -->
